@@ -1,0 +1,4 @@
+backup/*
+Classification/__pycache__/*
+*.pyc
+Classification/Trashcan/*
