@@ -2,3 +2,5 @@ backup/*
 Classification/__pycache__/*
 *.pyc
 Classification/Trashcan/*
+final/Arrhythmia Data Set/trash
+final/gene expression cancer RNA-Seq Data Set
